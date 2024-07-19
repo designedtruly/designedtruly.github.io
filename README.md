@@ -1,6 +1,6 @@
 # Coming Soon
 
-## Welcome to Ashi Jain's Portfolio
+## Welcome to Designedtruly
 
 ### About Me
 
