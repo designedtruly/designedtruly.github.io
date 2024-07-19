@@ -12,7 +12,21 @@ Design is not just about making things look good; it's about solving problems an
 
 ### My Journey
 
-With years of experience in the graphic design industry, I have honed my skills across various design disciplines. From working with startups to established brands, my journey has been driven by a love for creativity and a commitment to excellence.
+I have honed my skills across various design disciplines. From working with startups to established brands, my journey has been driven by a love for creativity and a commitment to excellence.
+
+### Experience
+
+- **Creative Team Lead**  
+  The Hackers Meetup Delhi  
+  *May 2024 - Present*
+
+- **Graphic Designer**  
+  DEF CON Delhi Group  
+  *Nov 2023 - Jan 2024*
+
+- **Graphic Design Intern**  
+  The Moms Co. | Good Glamm Group  
+  *Jul 2023 - Oct 2023*
 
 ### Skills and Expertise
 
@@ -28,4 +42,3 @@ I am always excited to collaborate on new projects and bring fresh ideas to life
 ---
 
 *Site is under construction. Check back soon for the full experience!*
-
